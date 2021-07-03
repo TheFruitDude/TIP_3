@@ -1,4 +1,4 @@
-# TIP_3
-I wrote a shell script for a simple backup. 
+# backup-shell-script
 
-Incremental backup is supported. The documentation of "tar" was very helpful. 
+I wrote a shell script for a simple backup. This script was designed to run periodically, for example <code>cron</code>. 
+Incremental backup is supported as well. 
